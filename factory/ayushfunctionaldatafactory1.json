@@ -1,0 +1,9 @@
+{
+	"name": "ayushfunctionaldatafactory1",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "13a86954-b4b4-440f-9844-2e80f2cba4f8",
+		"tenantId": "9c4dbc40-2326-45ff-bafb-0bb7f0b2a9d3"
+	}
+}
